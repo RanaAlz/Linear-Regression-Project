@@ -2,9 +2,9 @@
  The nutrition industry is currently experiencing huge growth. Increasing awareness of how diet affects health. Set against a backdrop of busy lifestyles and global health concerns, the nutrition market looks set to skyrocket as people look for quick and easy solutions. From this point we get inspiration to talk about nutrition and health market and predict price of it.
  
 ### Design:
-
+Is to use a linear regression model to predict nutrition prices based on listing features.
 ### Data:
-A model performance depends heavily on the data . To acquire the data, we used web scraping on iHerb website. By doing web scrubbing from IHERB.com
+To acquire the data, we used web scraping on iHerb website. By doing web scrubbing from IHERB.com
 
 ### Algorithms:
 - Building a linear regression in python.
