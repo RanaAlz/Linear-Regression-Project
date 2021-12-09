@@ -1,8 +1,9 @@
 # Linear-Regression-Project
- The nutrition industry is currently experiencing huge growth. Increasing awareness of how diet affects health. Set against a backdrop of busy lifestyles and global health concerns, the nutrition market looks set to skyrocket as people look for quick and easy solutions. From this point we get inspiration to talk about nutrition and health market and predict price of it.
- 
+The Face Creams industry is currently experiencing huge growth,The Market looks set to skyrocket as people look for quick and easy solutions and Price manipulation 
+By doing web scrubbing from IHERB.com
+
 ### Design:
-Is to use a linear regression model to predict nutrition prices based on listing features.
+Is to use a polynomial regression model to predict nutrition prices based on listing features.
 ### Data:
 To acquire the data, we used web scraping on iHerb website. By doing web scrubbing from IHERB.com
 
@@ -11,4 +12,4 @@ To acquire the data, we used web scraping on iHerb website. By doing web scrubbi
 - Rigorous model selection and evaluation.
 ### Tools:
 - ***Programming:*** SQLite, Python, iHerb Web.
-- ***Libraries:*** Numpy ,Pandas ,Matplotlib ,Random ,Seaborn, Beautiful Soup, Selenium.
+- ***Libraries:*** Numpy ,Pandas ,Matplotlib ,Random ,Seaborn, Beautiful Soup, Selenium, LinearRegression, PolynomialFeatures.
