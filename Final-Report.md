@@ -34,3 +34,7 @@ The (validation) = 0.074
 The (Test) = 0.090
 
 As we can see here, for the polynomial regression which will give the best test value  than from Linear regression and fits the data
+
+### Tools :
+- Technologies: Python, Jupyter Notbook.
+- Libraries: Pandas, NumPySeaborn, BeautifulSoup,Regression, Polynomal.
